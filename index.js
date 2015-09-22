@@ -5,7 +5,7 @@ import Counter from './app/components/TodoApp.react.js';
 
 
 
-// Action:
+//  Action:
 const increaseAction = {type: 'increase'};
 const discreaseAction = {type: 'discrease'}
 // Reducer:
